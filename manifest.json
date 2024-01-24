@@ -1,0 +1,16 @@
+{
+    "name": "AuraLink SmartPad",
+    "short_name": "SmartPad",
+    "description": "Control your smart home easily.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#28074a",
+    "theme_color": "#bd4de5",
+    "icons": [
+        {
+            "src": "./auralink.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
