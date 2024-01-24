@@ -5,7 +5,7 @@
     "start_url": "/",
     "display": "standalone",
     "background_color": "#28074a",
-    "theme_color": "#bd4de5",
+    "theme_color": "#e2e2e2",
     "icons": [
         {
             "src": "./auralink.png",
